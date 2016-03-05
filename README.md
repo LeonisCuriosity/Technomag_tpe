@@ -1,4 +1,9 @@
 #Technomag_tpe
+## Vous trouverez dans ce dossier
+ - les schémas au format png
+ - les schémas au format fritzing
+ - les codes émetteur et récepteur dans "piano_lifi.zip"
+
 ##code du piano li-fi
 
 - Téléchargez "piano_lifi.zip"
