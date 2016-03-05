@@ -1,7 +1,8 @@
 #Technomag_tpe
 ## Vous trouverez dans ce dossier
- - les schémas au format png
- - les schémas au format fritzing
+ - les termes de la liscence GPL3.0
+ - les schémas au format image (.png)
+ - les schémas au format fritzing (.fzz)
  - les codes émetteur et récepteur dans "piano_lifi.zip"
 
 ##code du piano li-fi
