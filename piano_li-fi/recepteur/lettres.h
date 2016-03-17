@@ -1,0 +1,7 @@
+#define C "01000011"
+#define D "01000100"
+#define E "01000101"
+#define F "01000110"
+#define G "01000111"
+#define A "01001000"
+#define B "01001001"
